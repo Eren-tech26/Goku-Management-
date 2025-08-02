@@ -5,10 +5,10 @@ class config:
     #Client
     API_ID = 21968859
     API_HASH = "21a59d21687f01d448530ee88a26b1eb"
-    BOT_TOKEN = "7607794789:AAFZFpxCfgv5PPEp3OkkvYXpOLzmGy7bbIE"
-    BOT_NAME = "耀•|Kᴏᴋᴜsʜɪʙᴏ"
-    BOT_USERNAME = "@TheKokushibobot"
-    BOT_ID = 7607794789
+    BOT_TOKEN = "8136564096:AAE8CuvbY52NUDnZSJLVNCSCfX1MJkc6aq0"
+    BOT_NAME = " 𝗚𝗼𝗸𝘂 𝗦𝗲𝗻𝘀𝗲𝗶💥 "
+    BOT_USERNAME = "@GOKUPROXBOT"
+    BOT_ID = 8136564096
     WORKERS = 30
     MAX_MESSAGE_CACHE_SIZE = 100
     MAX_CONCURRENT_TRANSMISSIONS = 10
@@ -31,10 +31,10 @@ class config:
     DOWNLOAD_LOCATION = "./downloads"
     COMMAND_PREFIXES = ["/" , "!" , "." , "#" , "$" , "%" , "&" , "?"] 
     CMD_STARTERS = "/.!&#%$"
-    STATS_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
-    START_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
-    HELP_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
-    ALIVE_IMG_URL = "https://i.ibb.co/j9ZMPWbF/photo-2025-08-02-09-21-08-7533915830287859724.jpg"
+    STATS_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
+    START_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
+    HELP_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
+    ALIVE_IMG_URL = "https://i.ibb.co/pvq32tZr/photo-2025-08-02-10-45-06-7533937455448195084.jpg"
     
     MONGODB_URI = "mongodb+srv://lollolopp0900:slayersan@cluster0.mge1ngz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" 
     DATABASE_NAME = "test"
